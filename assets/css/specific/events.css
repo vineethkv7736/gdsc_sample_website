@@ -1,0 +1,21 @@
+#root
+{
+    padding: 0rem;
+}
+.navbar
+{
+    position: fixed;
+   
+}
+.container
+{
+    background-color: white!important;
+    padding-left: 3rem!important;
+    opacity: 1!important;
+    
+}
+.content
+{
+    bottom: 0rem;
+}
+
